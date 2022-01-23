@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Toszxx
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me... you can't
+- 👀 I’m interested in front-end  
+- 🌱 I’m currently learning react.js
+- 📫 How to reach me... 
 
 <!---
 Toszxx/Toszxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
