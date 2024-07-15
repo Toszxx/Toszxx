@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Toszxx
-- 👀 I’m interested in front-end  
-- 🌱 I’m currently learning react.js
-- 📫 How to reach me... 
+- 👋 I’m @Toszxx
+- 👀 I’m interested in AI, Automatization and Big Data Structures
+- 🌱 I’m currently learning...
+- 📫 How to reach me... Comment or sth, idk
 
-<!---
-Toszxx/Toszxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
