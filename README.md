@@ -1,5 +1,4 @@
 - 👋 I’m @Toszxx
-- 👀 I’m interested in AI, Automatization and Big Data Structures
-- 🌱 I’m currently learning...
-- 📫 How to reach me... Comment or sth, idk
-
+- 👀 The true master of none
+- 🌱 I’m currently learning... yeah nice try.
+- 📫 How to reach me... find me and give me a paper plane
